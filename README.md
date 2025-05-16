@@ -11,3 +11,8 @@ blender-chess-knight/
 ├── reference.png    # Reference used to model the knight
 └── render.png       # Final Render of the image
 ```
+
+## Credits
+Color palette does NOT belong to me. It belongs to CGCOOKIE.com
+- https://cgcookie.com/downloads/color-palette
+- https://s3.amazonaws.com/cgcookie-rails/wp-uploads/2015/06/colorpallette2.png
