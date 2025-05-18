@@ -1,5 +1,6 @@
 # blender-chess-knight
-My first Chess Knight modeled and rendered in blender.
+My Chess Knight modeled and rendered in blender,
+Fun fact: this school project fixed my blender grade.
 
 ```
 blender-chess-knight/
